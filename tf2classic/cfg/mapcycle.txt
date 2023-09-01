@@ -3,148 +3,171 @@
 
 // Project Unison TF2C Official Map Rotations
 // Note: This section includes map reskins/revamps
-// Note #2: Maps marked with '*' are live TF2 Maps, and can be removed at any time due to request from map author/valve
 //-------------------------//
 //---- Attack & Defend ----//
 //-------------------------//
 //cp_amaranth
 cp_dustbowl
 //cp_egypt_final
-cp_furnace_rc1
+//cp_furnace_rc1
 cp_gorge_reborn_rc3c // Reworked!
 //cp_gravelpit
-*cp_hardwood_rc4
 cp_junction_reborn_rc1 // Reworked!
 cp_mountainlab
-//*cp_mossrock_rc5
 cp_steel
 
 //------------------------//
 //--- Capture the Flag ---//
 //------------------------//
-// =-------------=
 // 2Fort Maps
-// =-------------=
 //ctf_2fort
 //ctf_2fort_jungle_rc2
 ctf_2fort_neocity // New Reskin!
-// =-------------=
 ctf_casbah
 ctf_doublecross
 //ctf_landfall
 ctf_pelican_peak
 ctf_sawmill
+// Turbine Maps
+//ctf_turbine
 ctf_newbine_rc2 // Reworked!
 ctf_well
 
 //------------------------//
 //---- Control Points ----//
 //------------------------//
-cp_5gorge
-// =-------------=
 // Badlands Maps
-// =-------------=
 //cp_badlands
 cp_lushlands_rc2
-// =-------------=
+// Coldfront Maps
 cp_coldfront
+//cp_warmfront
 //cp_fastlane
 cp_foundry
 cp_freight_final1
-// =-------------=
 // Granary Maps
-// =-------------=
 //cp_granary
 cp_granary_storm_v1 // New Reskin!
-// =-------------=
 //cp_gullywash_final1
-*cp_metalworks_f5
 cp_powerhouse_fix
-//*cp_process_f12
-*cp_reckoner_rc6
-*cp_snakewater
-//*cp_sunshine_rc9
 cp_tidal_v4
-*cp_vanguard_rc3a
 cp_well
 cp_yukon_final
 
 //------------------------//
 //--- King of the Hill ---//
 //------------------------//
+// Arctic Maps
 //koth_badlands
-*koth_brazil_rc3
-//*koth_cascade_rc2
-// =-------------=
 // Harvest Maps
-// =-------------=
 //koth_harvest_final
 koth_harvest_spring_rain // New Reskin!
 //koth_harvestalpine_v3b
 //koth_harvest_event
-// =-------------=
-koth_highpass
+//koth_highpass
 koth_king
 //koth_lakeside_final
-//*koth_lazarus_rc4
 koth_nucleus
-*koth_rotunda_rc13aw
 koth_sawmill
-*koth_sharkbay_rc2
-//*koth_suijin_b4
+// Viaduct Maps
 koth_viaduct
+//koth_product_final
 
 //-----------------------//
 //------- Payload -------//
 //-----------------------//
 pl_badwater
-*pl_borneo_f2
-*pl_breadspace_b11
+// Barnblitz Maps
 pl_barnblitz
-//*pl_cashworks_final1
-*pl_enclosure_rc9b
+//pl_problitz_rc2
 pl_frontier_final
 pl_goldrush
 //pl_hoodoo_final
 //pl_jinn
-//*pl_phoenix_b4a
-*pl_pier_b23
-*pl_snowycoast_b4
 pl_thundermountain
-// =-------------=
 // Upward Maps
-// =-------------=
-pl_upward
-//pl_abandoned_upward_finalfix
-// =-------------=
-//*pl_venice_rc3
+//pl_upward
+pl_abandoned_upward_finalfix
 
-// Project Unison TF2C Official Map Rotations: Extras
-// As of Semptember Midseason update, these game modes will no longer be main priority.
-// Due to high popularity we will keep the gamemode as-is but will be minimal.
 //------------------------//
 //----- Payload Race -----//
 //------------------------//
-// =-------------=
 // Hightower Maps
-// =-------------=
 //plr_hightower
 plr_hightower_rainy // New Reskin!
-// =-------------=
-*plr_bananabay_rc4
-
-//------------------------//
-//------ Domination ------//
-//------------------------//
-dom_oilcanyon
+//plr_nightfall_final
+//plr_pipeline
 
 //------------------------//
 //------- VIP Mode -------//
 //------------------------//
-//vip_badwater
+vip_badwater
 vip_harbor
 //vip_mineside
 //vip_trainyard
+
+//------------------------//
+//------- Specialty ------//
+//------------------------//
+cp_degrootkeep
+
+// Project Unison Live TF2 Map Rotations
+// This section is dedicated to community maps that has been officially added into the Live TF2,
+// and won't receive any updates. (Unless it is breaking changes that needs to be addressed)
+// Due to uncertain license issue, these maps can be removed at any time.
+//-------------------------//
+//---- Attack & Defend ----//
+//-------------------------//
+cp_hardwood_rc4
+//cp_mossrock_rc5
+
+//------------------------//
+//--- Capture the Flag ---//
+//------------------------//
+// Not at the moment.
+
+//------------------------//
+//---- Control Points ----//
+//------------------------//
+cp_metalworks_f5
+//cp_process_f12
+cp_reckoner_rc6
+cp_snakewater
+//cp_sunshine_rc9
+cp_vanguard_rc3a
+
+//------------------------//
+//--- King of the Hill ---//
+//------------------------//
+koth_brazil_rc3
+//koth_cascade_rc2
+//koth_lazarus_rc4
+koth_probed_rc2
+koth_rotunda_rc13aw
+koth_sharkbay_rc2
+//koth_suijin_b4
+
+//-----------------------//
+//------- Payload -------//
+//-----------------------//
+pl_borneo_f2
+pl_breadspace_b11
+//pl_cashworks_final1
+//pl_enclosure_rc9b
+//pl_phoenix_b4a
+pl_pier_b23
+pl_snowycoast_b4
+//pl_venice_rc3
+
+//------------------------//
+//----- Payload Race -----//
+//------------------------//
+plr_bananabay_rc4
+
+//-------------------------//
+//------- Specialty -------//
+//-------------------------//
+cp_sulfur_rc2
 
 // Project Unison TF2C Community Map Rotations
 // This section includes all community maps.
@@ -155,11 +178,10 @@ cp_alloy_rc3
 cp_city_district // New!
 //cp_conifer_rc3
 //cp_coppice_rc1
-//cp_edifice_rc1
-//cp_ferrum_rc1
 cp_hadal_rc1 // New!
 cp_hybro_b10 // New!
 //cp_mojave_b2
+cp_outflow_b3 // New!
 //cp_overgrown_rc8
 // Paris Maps
 //cp_paris_b3
@@ -168,38 +190,22 @@ cp_france_rc4c // New!
 //------------------------//
 //--- Capture the Flag ---//
 //------------------------//
-ctf_arroyo_b9_fix1
 ctf_downstream_rc2
-ctf_facility_build62 // New!
-//ctf_giants_rc3
-ctf_mercy
-//ctf_overlook_b1
-//ctf_sweetwater_redux_b2
+ctf_giants_rc3
 ctf_urbanbrook_rc
-ctf_wildfire_rc
-
-//-----------------------//
-//---- Tug-o-war CTF ----//
-//-----------------------//
-//ctf_isotope_final
 
 //------------------------//
 //---- Control Points ----//
 //------------------------//
 //cp_antiquity_b18
-//cp_axle_rc1
 //cp_canaveral_5cp_rc4
-cp_cardinal_rc1a
-cp_entropy_b3
+cp_entropy_b5
 cp_glassworks_rc7a
-cp_hybrid_v4 // New!
-cp_kalinka_rc6a
 //cp_logjam_rc12f
-//cp_mainline_rc6
-cp_mannbase_rc2a
+cp_mannbase_rc2b
 cp_mist_rc1e
 cp_shadowfacility_final // New!
-cp_sultry_b8
+cp_sultry_b8a
 
 //------------------------//
 //--- King of the Hill ---//
@@ -211,7 +217,6 @@ koth_ashville_final // New!
 //koth_bagel_rc6
 koth_chasm_b1
 koth_coalplant_b7
-koth_combustion_b1
 koth_conveyance_rc3b
 //koth_daenam_b12
 koth_hangar_rc5b
@@ -223,6 +228,7 @@ koth_occult_rc6
 //koth_proot_b6b
 //koth_quarry_rc5
 //koth_relic_rc3
+koth_shorelight_rc7 // New!
 koth_skyward_b2
 koth_skyscraper // New!
 koth_slaughter_b2a
@@ -233,9 +239,8 @@ koth_slaughter_b2a
 //-----------------------//
 pl_corrode_rc2
 //pl_eruption_b13
-pl_hatfactory56
+pl_fifthcurve_rc1 // New!
 pl_highwood_b19
-pl_manngrove_rc5
 //pl_midwest_rc1a
 //pl_oasis_rc3
 //pl_ridgetech_rc1a
@@ -244,3 +249,16 @@ pl_rustbelt_rc1 // New!
 //pl_shoreleave_rc2
 pl_vigil_rc10
 pl_vineyard_rc8b // New!
+
+//------------------------//
+//----- Payload Race -----//
+//------------------------//
+plr_fishladder3 // New!
+//plr_hacksaw_rc1b
+plr_hierarch_rc2b
+
+//-------------------------//
+//------- Specialty -------//
+//-------------------------//
+ctf_isotope_final
+pl_effigy_rc2
