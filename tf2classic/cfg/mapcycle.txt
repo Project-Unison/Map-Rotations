@@ -7,7 +7,6 @@
 //---- Attack & Defend ----//
 //-------------------------//
 //cp_amaranth
-//cp_degrootkeep
 cp_dustbowl
 //cp_egypt_final
 //cp_furnace_rc1
@@ -59,8 +58,6 @@ cp_yukon_final
 //--- King of the Hill ---//
 //------------------------//
 // Arctic Maps
-//koth_arctic // Coming Soon this Smissmas!
-//koth_warmtic_f10
 //koth_badlands
 // Harvest Maps
 //koth_harvest_final
@@ -98,18 +95,8 @@ pl_abandoned_upward_finalfix
 // Hightower Maps
 //plr_hightower
 plr_hightower_rainy // New Reskin!
-plr_nightfall_final
-plr_pipeline
-
-//------------------------//
-//--- Special Delivery ---//
-//------------------------//
-sd_doomsday
-
-//-------------------------//
-//-- Territorial Control --//
-//-------------------------//
-//tc_hydro
+//plr_nightfall_final
+//plr_pipeline
 
 //------------------------//
 //------- VIP Mode -------//
@@ -118,6 +105,11 @@ vip_badwater
 vip_harbor
 //vip_mineside
 //vip_trainyard
+
+//------------------------//
+//------- Specialty ------//
+//------------------------//
+cp_degrootkeep
 
 // Project Unison Live TF2 Map Rotations
 // This section is dedicated to community maps that has been officially added into the Live TF2,
@@ -128,11 +120,6 @@ vip_harbor
 //-------------------------//
 cp_hardwood_rc4
 //cp_mossrock_rc5
-
-//-------------------------//
-//---- A/D + CP Hybrid ----//
-//-------------------------//
-//cp_sulfur_rc2
 
 //------------------------//
 //--- Capture the Flag ---//
@@ -177,15 +164,10 @@ pl_snowycoast_b4
 //------------------------//
 plr_bananabay_rc4
 
-//------------------------//
-//--- Special Delivery ---//
-//------------------------//
-// Not at the moment.
-
 //-------------------------//
-//-- Territorial Control --//
+//------- Specialty -------//
 //-------------------------//
-// Not at the moment.
+cp_sulfur_rc2
 
 // Project Unison TF2C Community Map Rotations
 // This section includes all community maps.
@@ -196,11 +178,10 @@ cp_alloy_rc3
 cp_city_district // New!
 //cp_conifer_rc3
 //cp_coppice_rc1
-//cp_edifice_rc1
-//cp_ferrum_rc1
 cp_hadal_rc1 // New!
 cp_hybro_b10 // New!
 //cp_mojave_b2
+cp_outflow_b3 // New!
 //cp_overgrown_rc8
 // Paris Maps
 //cp_paris_b3
@@ -209,40 +190,22 @@ cp_france_rc4c // New!
 //------------------------//
 //--- Capture the Flag ---//
 //------------------------//
-ctf_arroyo_b9_fix1
-//ctf_downstream_rc2
-ctf_facility_build62 // New!
-//ctf_giants_rc3
-ctf_mercy
-//ctf_overlook_b1
-ctf_rooftop // New!
-//ctf_sweetwater_redux_b2
+ctf_downstream_rc2
+ctf_giants_rc3
 ctf_urbanbrook_rc
-ctf_wildfire_rc
-
-//-----------------------//
-//---- Tug-o-war CTF ----//
-//-----------------------//
-//ctf_isotope_final
 
 //------------------------//
 //---- Control Points ----//
 //------------------------//
-cp_abyss_b162 // New!
 //cp_antiquity_b18
-//cp_axle_rc1
 //cp_canaveral_5cp_rc4
-//cp_cardinal_rc1a
-cp_entropy_b3
+cp_entropy_b5
 cp_glassworks_rc7a
-cp_hybrid_v4 // New!
-cp_kalinka_rc6a
 //cp_logjam_rc12f
-//cp_mainline_rc6
-cp_mannbase_rc2a
+cp_mannbase_rc2b
 cp_mist_rc1e
 cp_shadowfacility_final // New!
-cp_sultry_b8
+cp_sultry_b8a
 
 //------------------------//
 //--- King of the Hill ---//
@@ -254,7 +217,6 @@ koth_ashville_final // New!
 //koth_bagel_rc6
 koth_chasm_b1
 koth_coalplant_b7
-koth_combustion_b1
 koth_conveyance_rc3b
 //koth_daenam_b12
 koth_hangar_rc5b
@@ -266,6 +228,7 @@ koth_occult_rc6
 //koth_proot_b6b
 //koth_quarry_rc5
 //koth_relic_rc3
+koth_shorelight_rc7 // New!
 koth_skyward_b2
 koth_skyscraper // New!
 koth_slaughter_b2a
@@ -276,9 +239,8 @@ koth_slaughter_b2a
 //-----------------------//
 pl_corrode_rc2
 //pl_eruption_b13
-//pl_hatfactory56
+pl_fifthcurve_rc1 // New!
 pl_highwood_b19
-pl_manngrove_rc5
 //pl_midwest_rc1a
 //pl_oasis_rc3
 //pl_ridgetech_rc1a
@@ -288,18 +250,15 @@ pl_rustbelt_rc1 // New!
 pl_vigil_rc10
 pl_vineyard_rc8b // New!
 
-//-------------------------//
-//--- Tug-o-war Payload ---//
-//-------------------------//
-pl_effigy_rc2
-pl_waste_v2
-
 //------------------------//
 //----- Payload Race -----//
 //------------------------//
-//plr_aulli_b2b
 plr_fishladder3 // New!
-//plr_frostfell_a10
 //plr_hacksaw_rc1b
 plr_hierarch_rc2b
 
+//-------------------------//
+//------- Specialty -------//
+//-------------------------//
+ctf_isotope_final
+pl_effigy_rc2
